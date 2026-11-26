@@ -1,6 +1,6 @@
 {
   "name": "@culpritsql/test",
-  "version": "0.5.9",
+  "version": "0.5.10",
   "description": "Execution plan regression assertions, Vitest/Jest matchers, and safe EXPLAIN runners powered by @culpritsql/plans.",
   "license": "MIT",
   "type": "module",
@@ -20,7 +20,7 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@culpritsql/plans": "^0.6.0"
+    "@culpritsql/plans": "^0.6.4"
   },
   "devDependencies": {
     "@types/node": "^22.15.3",
