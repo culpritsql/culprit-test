@@ -20,7 +20,7 @@
     "test": "bun test"
   },
   "dependencies": {
-    "@culpritsql/plans": "^0.6.8"
+    "@culpritsql/plans": "^0.6.10"
   },
   "devDependencies": {
     "@types/node": "^22.15.3",
