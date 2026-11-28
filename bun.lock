@@ -5,7 +5,7 @@
     "": {
       "name": "@culpritsql/test",
       "dependencies": {
-        "@culpritsql/plans": "^0.6.6",
+        "@culpritsql/plans": "^0.6.7",
       },
       "devDependencies": {
         "@types/node": "^22.15.3",
@@ -15,7 +15,7 @@
     },
   },
   "packages": {
-    "@culpritsql/plans": ["@culpritsql/plans@0.6.6", "", {}, "sha512-tt6u56EVANfcqD9/Y9tfWLW7otMsItFs8vLzQe+ZdYuu0xBo59f8mj19HKStJUeXmERvnvCnmBvXjYuxOzb0Wg=="],
+    "@culpritsql/plans": ["@culpritsql/plans@0.6.7", "", {}, "sha512-dDPFsLAbr+ndV9W0VDJBxxZd5UOqbikmzrZxWMYlksvx1VuvVXytNLz3tNeIVqXR4bleWjm9sID4bRgEF214UQ=="],
 
     "@esbuild/aix-ppc64": ["@esbuild/aix-ppc64@0.25.12", "", { "os": "aix", "cpu": "ppc64" }, "sha512-Hhmwd6CInZ3dwpuGTF8fJG6yoWmsToE+vYgD4nytZVxcu1ulHpUQRAB1UJ8+N1Am3Mz4+xOByoQoSZf4D+CpkA=="],
 
